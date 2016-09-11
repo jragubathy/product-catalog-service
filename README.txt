@@ -12,6 +12,12 @@ Product Catalog Service : http://localhost:9080/product/catalog/service
 Product Pricing Service : http://localhost:9081/product/pricing/service
 
 
+Run :
+-------
+
+1) Right click the project in eclipse and select "Run As" --> Mavin build ... --> Goals : jetty:run , Profiles : jetty
+
+
 Healthcheck URLs :
 --------------------
 
